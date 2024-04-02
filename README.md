@@ -43,4 +43,4 @@ A custom SwiftUI view that displays an image of Turtle Rock, styled to appear as
 This project serves as a simple example of building a UI with SwiftUI, showcasing a specific landmark. It demonstrates the use of custom views, SwiftUI's layout system, and integration with `MapKit` for geographical features.
 ## Screenshots
 
-![Turtle Rock Screenshot](Screenshots/turtle_rock_screenshot.png)
+![Screenshot](Screenshot.png)
